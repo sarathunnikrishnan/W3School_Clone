@@ -1,0 +1,102 @@
+.section-six-sql{
+    background-color: #96D4D4;
+    color: black;
+    width: auto;
+    height: 515px;
+}
+.section-six-sql-left{
+    width: 50%;
+    height: 440px;
+    float: left;
+    margin-top: 72px;
+    font-family: 'Assistant', sans-serif;
+    font-family: 'Nunito', sans-serif;
+}
+.section-six-sql-left-h1{
+    font-size: 85px;
+    margin-left: 346px;
+    
+}
+.section-six-sql-left-p-1{
+    font-size: 19px;
+    margin-left: 270px;
+}
+.section-six-sql-left-a-1{
+    background-color: #04AA6D;
+    color: white;
+    font-size: 15px;
+    margin-left: 330px;
+    text-align: center;
+    display: block;
+    width: 180px;
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+.section-six-sql-left-a-2{
+    background-color: #282A35;
+    color: white;
+    font-size: 15px;
+    margin-left: 330px;
+    text-align: center;
+    display: block;
+    width: 180px;
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+.section-six-sql-left-a-3{
+    background-color: #FFC0C7;
+    color: black;
+    font-size: 15px;
+    margin-left: 330px;
+    text-align: center;
+    display: block;
+    width: 180px;
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+.section-six-sql-right{
+    width: 50%;
+    height: 515px;
+    float: left;
+}
+.section-six-sql-right-box-outer{
+    background-color: #E7E9EB;
+    width: 417px;
+    height: 350px;
+    border: 1px solid #E7E9EB;
+    padding-left: 16px;
+    padding-top: 30px;
+    margin-left: 30px;
+    margin-top: 70px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.section-six-sql-right-box-outer-h5-1{
+    font-size: 25px;
+    color: black;
+}
+.section-six-sql-right-box-inner{
+    width: 375px;
+    height: 230px;
+    background-color: white;
+    margin-top: 16px;
+    border-left: 3px solid #04AA6D;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: auto;
+    line-height: 22px;
+    font-weight: 500;
+}
+.section-six-sql-right-box-outer-a-1{
+    background-color: #04AA6D;
+    padding: 7px 35px;
+    font-size: 20px;
+    border-radius: 30px;
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+    color: white;
+}
